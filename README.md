@@ -1,1 +1,1 @@
-* Projekat iz predmeta Veštačka inteligencija *
+* Projekat iz predmeta Veštačka inteligencija
